@@ -5,6 +5,6 @@ Follow below steps :
    2. Run go get
    3. Build it and run the application.
    
-###Note  
+### Note  
   This application is using inmemory to store the shortened url details, so once you stop the application you wont be able to access
   the shortened URL.
